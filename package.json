@@ -33,7 +33,7 @@
     "jquery-ui": "^1.14.0",
     "jsoneditor": "^10.1.0",
     "lodash-es": "^4.17.21",
-    "luxon": "^3.4.4",
+    "luxon": "^3.5.0",
     "marked": "^14.0.0",
     "mathjax-full": "^3.2.2",
     "mini-css-extract-plugin": "^2.9.0",
