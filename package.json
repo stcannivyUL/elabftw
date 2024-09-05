@@ -28,7 +28,7 @@
     "css-minimizer-webpack-plugin": "^5.0.1",
     "diff-match-patch": "^1.0.5",
     "expose-loader": "^4.1.0",
-    "i18next": "^23.12.2",
+    "i18next": "^23.12.3",
     "jquery": "^3.7.1",
     "jquery-ui": "^1.14.0",
     "jsoneditor": "^10.1.0",
