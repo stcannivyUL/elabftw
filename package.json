@@ -41,7 +41,7 @@
     "phpeggy": "^2.0.1",
     "popper.js": "^1.16.1",
     "prismjs": "^1.29.0",
-    "sass": "^1.77.8",
+    "sass": "^1.79.0",
     "terser-webpack-plugin": "^5.3.10",
     "tinymce": "^6.8.4",
     "tom-select": "^2.3.1",
